@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "toozcraft:block/test_block" }
+  }
+}
